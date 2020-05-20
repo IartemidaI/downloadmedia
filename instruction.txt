@@ -1,0 +1,8 @@
+1) Download .rar archive
+2) Unpack it (Captaion Obvious)
+3) Go to cmd, change working directory to directory with unpacked archive
+4) Active virtual environment (etc\Scripts\Activate)
+5) Run start.py by command: python start.py
+6) Enter URL of video or music you want to download
+7) Select format code
+8) Enjoy music/video that you download
